@@ -1,3 +1,7 @@
 <template name="4277b0fa">
-  <view class="_view data-v-7da4124b"></view>
+  <view class="_view data-v-7da4124b">
+    <view class="_div data-v-7da4124b top-con">
+      <image mode="aspectFill" class="_image data-v-7da4124b .icon{\n\t\t\tborderr-radius: 50%;\n\t\t\twidth: 50px;\n\t\t\theight: 50px\n\t\t}"></image>
+    </view>
+  </view>
 </template>
