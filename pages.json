@@ -14,7 +14,10 @@
         {
             "path" : "pages/userCenter/userCenter",
             "style" : {
-				"navigationBarTitleText" : "个人中心"
+				"navigationBarTitleText" : "个人中心",
+				"navigationBarBackgroundColor": "#e76497",
+				"navigationBarTextStyle": "#fff",
+				"backgroundColorTop": "#e76497"
 			}
         },
         {
